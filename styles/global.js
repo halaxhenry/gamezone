@@ -12,5 +12,11 @@ export const globalStyles = StyleSheet.create({
     paragraph: {
         marginVertical: 8,
         lineHeight: 20,
+    },
+    redirectBtn: {
+        width: '100%',
+        backgroundColor: 'tomato',
+        margin: 'auto',
+        borderRadius: 4,
     }
 })
