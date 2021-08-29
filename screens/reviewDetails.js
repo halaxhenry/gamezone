@@ -3,7 +3,7 @@ import React from 'react';
 import { StyleSheet, View, Text } from 'react-native';
 import { globalStyles } from '../styles/global';
 
-export default function ReviewDetails({ route, navigation }) {
+export default function ReviewDetails({ route }) {
 
     console.log(route.params)
     const title = route.params.title;
@@ -15,7 +15,6 @@ export default function ReviewDetails({ route, navigation }) {
             <Text>{title}</Text>
             <Text>{body}</Text>
             <Text>{rating}</Text>
-
         </View>
     );
 }

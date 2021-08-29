@@ -1,6 +1,6 @@
 import { NavigationContainer, CommonActions } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
-const Stack = createNativeStackNavigator();
+const HomeStack = createNativeStackNavigator();
 
-export default Stack;
+export default HomeStack;
