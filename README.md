@@ -14,3 +14,7 @@ https://reactnavigation.org/docs/navigating
 ## Drawer Navigator
 
 npm install @react-navigation/drawer
+
+## Formik
+
+npm install formik
