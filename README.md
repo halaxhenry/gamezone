@@ -18,3 +18,7 @@ npm install @react-navigation/drawer
 ## Formik
 
 npm install formik
+
+## Yup
+
+validation tool
