@@ -22,3 +22,5 @@ npm install formik
 ## Yup
 
 validation tool
+
+npm install yup
